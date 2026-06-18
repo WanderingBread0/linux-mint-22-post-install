@@ -6,7 +6,7 @@ A single script that takes a fresh Linux Mint 22.x install to fully set up — b
 
 | Category | Apps |
 |----------|------|
-| **Browser** | Brave (Origins channel) |
+| **Browser** | Brave |
 | **Privacy** | Signal, Proton Mail, Proton VPN |
 | **Dev** | VS Code, Git, GitHub CLI, Docker (CE + Compose + Buildx), Node.js via nvm, Rust via rustup, Claude Code CLI, tmux, gum |
 | **Media** | VLC, KDEnlive, SimpleScreenRecorder |
